@@ -11,4 +11,4 @@ plugins {
 }
 
 rootProject.name = "add-solid-table-borders"
-include("app")
+include("solidtableborders")
